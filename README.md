@@ -3,7 +3,7 @@
 🚀 **Computer Science & Networks Engineering Student** at [EMSI](https://www.emsi.ma/)
 📍 Based in **Rabat, Morocco**
 
-I am passionate about Full Stack development, System Administration, and solving complex problems with code.
+I am passionate about Full Stack development, **Oracle Database Administration**, and solving complex problems with code.
 
 ---
 
@@ -11,8 +11,8 @@ I am passionate about Full Stack development, System Administration, and solving
 
 **Programming Languages**
 <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -31,6 +31,7 @@ I am passionate about Full Stack development, System Administration, and solving
 
 **Backend Frameworks**
 <br>
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -39,12 +40,16 @@ I am passionate about Full Stack development, System Administration, and solving
 
 **Databases & Systems**
 <br>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/red%20hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
+
+**Research & Documentation**
+<br>
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Zotero](https://img.shields.io/badge/zotero-%23A62128.svg?style=for-the-badge&logo=zotero&logoColor=white)
 
 ---
 
