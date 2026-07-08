@@ -1,119 +1,199 @@
-# Hi there, I'm Mohamed El-Ghazoui! 👋
+<h1 align="center">Hi 👋, I'm Mohamed EL-GHAZOUI</h1>
+<h3 align="center">Computer Science & Networks Engineering Student | Full Stack Developer | Oracle Certified Java Developer</h3>
 
-🚀 **Computer Science & Networks Engineering Student** at [EMSI](https://www.emsi.ma/)  
-📍 Based in **Rabat, Morocco**
-
-I am passionate about **Full Stack Development**, **Software Engineering**, **Oracle Database Administration**, and solving complex problems with code.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-el-ghazoui">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:elghazoui.md@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+  <a href="https://elghzouimd.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?logo=vercel" />
+  </a>
+</p>
 
 ---
 
-# 🛠️ Languages & Tools
+# 👨‍💻 About Me
+
+🎓 Computer Science & Networks Engineering Student at *EMSI Rabat*
+
+💻 Passionate about *Software Engineering, **Full Stack Development, **Backend Development, and **Artificial Intelligence*.
+
+🌱 Currently learning:
+
+- Spring Boot
+- Angular
+- Next.js
+- DevOps
+- Docker
+- Cloud Technologies
+
+🏆 Oracle Certified Professional Java SE 17 Developer
+
+📍 Rabat, Morocco
+
+---
+
+# 🚀 Tech Stack
 
 ## 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## 🎨 Frontend Development
+## 🎨 Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue JS](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## ⚙️ Backend Development
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JEE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
+- Angular
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
 ---
 
-## 🗄️ Databases & Systems
+## ⚙️ Backend
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/red%20hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
-
----
-
-## 📐 Software Engineering & Project Management
-
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-blue?style=for-the-badge)
-![Project Management](https://img.shields.io/badge/Project%20Management-orange?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+- Spring Boot
+- NestJS
+- Django
+- Laravel
+- ASP.NET Core
+- Node.js
+- REST API
+- JWT Authentication
 
 ---
 
-## 🔬 Research & Documentation
+## 🗄️ Databases
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Zotero](https://img.shields.io/badge/zotero-%23A62128.svg?style=for-the-badge&logo=zotero&logoColor=white)
+- PostgreSQL
+- Oracle
+- MySQL
+- SQL Server
+- MongoDB
+- Redis
 
 ---
 
-# 🏆 Certifications & Learning
+## 🛠️ Tools
 
-📜 **Software Engineering: Design & Project Management** – HKUST  
-📜 **Python for Data Science, AI & Development** – IBM  
-📜 **The Unix Workbench** – Johns Hopkins University  
-📜 **Introduction to OOP in C++** – EPFL  
-📜 **Interactivity with JavaScript** – University of Michigan  
-📜 **Research & Documentation** – École Polytechnique  
+- Git
+- Docker
+- Linux
+- Maven
+- Postman
+- IntelliJ IDEA
+- VS Code
+
+---
+
+# 🏆 Certifications
+
+🥇 Oracle Certified Professional Java SE 17 Developer
+
+📜 Agile Project Management
+
+📜 Python for Data Science, AI & Development
+
+📜 Software Engineering: Design & Project Management
+
+📜 The Unix Workbench
 
 ---
 
 # 📂 Featured Projects
 
-### 🍽 Restaurant Platform
-Full-stack ordering system built with **Angular & NestJS**
+## 📈 ForecastIQ
 
-### 👨‍💼 HR Management App
-Enterprise HR management system developed with **Java**
+AI-powered sales forecasting platform using Machine Learning.
 
-### 🎤 Conference Management System
-Event management web application built with **Django**
+*Tech Stack*
 
-### 📚 Homework Management App
-Educational platform developed with **Laravel**
-
-### 🏥 Medical Center Management
-Desktop application for managing patient records using **C++**
-
-### 🌾 GPEC Web Application
-Agricultural management tool developed for **COPAG**
-
-### 🎓 E-Learning Platform
-Interactive online course interface built with **HTML & JavaScript**
+Next.js • Flask • PostgreSQL • Pandas • NumPy
 
 ---
 
-# 📫 Connect with me
+## 👨‍💼 TalentFlow (GPEC)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-el-ghazoui)
+Enterprise HR management platform developed during my internship at COPAG.
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elghazoui.md@gmail.com)
+*Tech Stack*
+
+Angular • NestJS • JWT • TypeORM
+
+---
+
+## 👥 Employee Management System
+
+Employee management application with secure authentication.
+
+*Tech Stack*
+
+Angular • Spring Boot • MongoDB • JWT
+
+---
+
+## 🎓 E-Learning Platform
+
+Online learning management platform.
+
+*Tech Stack*
+
+ASP.NET Core • SQL Server • HTML • CSS • JavaScript
+
+---
+
+## 🎤 Conference Management System
+
+Conference and speaker management web application.
+
+*Tech Stack*
+
+Django • SQLite • HTML • CSS • JavaScript
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=elghzouimd&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=elghzouimd&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elghzouimd&layout=compact&theme=tokyonight)
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- Building scalable Full Stack applications
+- Software Architecture
+- Artificial Intelligence
+- DevOps & Docker
+- Cloud Computing
+
+---
+
+# 🤝 Connect with Me
+
+📧 Email: **elghazoui.md@gmail.com*
+
+🌐 Portfolio: *https://elghzouimd.vercel.app*
+
+💼 LinkedIn: **https://www.linkedin.com/in/mohamed-el-ghazoui**
+
+⭐ Feel free to explore my repositories and don't forget to leave a ⭐ if you like my work!
