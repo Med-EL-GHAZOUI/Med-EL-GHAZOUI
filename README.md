@@ -1,325 +1,110 @@
 <h1 align="center">Hi 👋, I'm Mohamed El-Ghazoui</h1>
 
 <h3 align="center">
-Computer Science & Networks Engineering Student | Full Stack Developer | Java Developer
+Computer Science & Networks Engineering Student · Full Stack Developer · Java Developer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/elghzouimd">
-    <img src="https://komarev.com/ghpvc/?username=elghzouimd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Angular+%7C+React+%7C+Next.js;Oracle+Certified+Java+SE+17;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Angular+%7C+React+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
+  <a href="https://www.linkedin.com/in/mohamed-el-ghazoui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:elghazoui.md@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://elghzouimd.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=elghzouimd&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Computer Science & Networks Engineering Student at *EMSI Rabat*
+🎓 Computer Science & Networks Engineering student at **EMSI Rabat**.
+💻 I build scalable web applications, solve real-world problems and learn something new every day.
 
-💻 Passionate about
+- 🔭 Working on: full stack apps (Spring Boot / Angular / React / NestJS) and AI-powered products
+- 🌱 Learning: Spring Boot Microservices, Docker, Kubernetes, CI/CD, Cloud
+- 🏆 Certified: **Oracle Certified Professional: Java SE 17 Developer**
+- 📫 Reach me: [elghazoui.md@gmail.com](mailto:elghazoui.md@gmail.com)
 
-- Full Stack Development
-- Software Engineering
-- Enterprise Applications
-- Artificial Intelligence
-- Database Systems
-- Clean Architecture
-
-I enjoy building scalable web applications, solving real-world problems and learning new technologies every day.
+**Interests:** Software Engineering · Enterprise Applications · Clean Architecture · Database Systems · Artificial Intelligence
 
 ---
 
-# 🌐 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-el-ghazoui" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:elghazoui.md@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://elghzouimd.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,php,js,ts" alt="Languages"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,html,css,bootstrap,tailwind" alt="Frontend"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,laravel,django,dotnet" alt="Backend"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,oracle" alt="Databases"/> |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea,webstorm,maven" alt="Tools"/> |
 
 ---
 
-# 💻 Programming Languages
+## 💼 Experience
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cs"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-</p>
-
----
-
-# 🎨 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=angular"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=vue"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-</p>
-
----
-
-# ⚙️ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=nestjs"/>
-
-<img src="https://skillicons.dev/icons?i=laravel"/>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-
-</p>
-
----
-
-# 🗄️ Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=redis"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-<img src="https://skillicons.dev/icons?i=oracle"/>
-
-</p>
-
----
-
-# 🛠️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-<img src="https://skillicons.dev/icons?i=webstorm"/>
-
-<img src="https://skillicons.dev/icons?i=maven"/>
-
-</p>
-
----
-
-# 💼 Professional Experience
-
-## 🌾 Full Stack Developer Intern — COPAG
-
+### 🌾 Full Stack Developer Intern — COPAG
 📍 Taroudant, Morocco
 
-Developed a *Human Resources Planning (GPEC)* web application.
+Built **GPEC**, a Human Resources Planning web application: UML analysis & design, REST API with JWT authentication, database design, and full stack development in an Agile team using Git.
 
-### Responsibilities
-
-- UML Analysis & Design
-- REST API Development
-- JWT Authentication
-- Full Stack Development
-- Database Design
-- Git Collaboration
-- Agile Methodology
-
-### Technologies
-
-Angular • NestJS • TypeORM • JWT • REST API • Git
+`Angular` `NestJS` `TypeORM` `JWT` `REST API` `Git`
 
 ---
 
-# 🚀 Featured Projects
+## 📂 Featured Projects
 
-## 📈 ForecastIQ
+| Project | Description | Stack |
+|---|---|---|
+| 📈 **ForecastIQ** | AI-powered sales forecasting platform: ML predictions, trend analysis, dashboard, reports, secure auth | Next.js · Flask · PostgreSQL · Pandas · NumPy |
+| 🛒 **ArticleSimy** | Full stack e-commerce: JWT auth, cart, orders, product management, admin dashboard | Spring Boot · React · PostgreSQL |
+| 👨‍💼 **Employee Management System** | Enterprise employee management platform | Angular · Spring Boot · MongoDB |
+| 🌾 **GPEC** | HR planning platform built during my COPAG internship | Angular · NestJS · JWT |
+| 📚 **E-Learning Platform** | Learning management system | ASP.NET Core · SQL Server |
+| 🎤 **Conference Management** | Conference management web application | Django · SQLite |
 
-AI-powered Sales Forecasting Platform
-
-*Features*
-
-- Machine Learning
-- Sales Forecasting
-- Trend Analysis
-- Dashboard
-- Secure Authentication
-- Reports
-
-*Tech*
-
-Next.js • Flask • PostgreSQL • Pandas • NumPy
+👉 [See all my repositories](https://github.com/elghzouimd?tab=repositories)
 
 ---
 
-## 🛒 ArticleSimy
+## 🏆 Certifications
 
-Full Stack E-commerce Platform
-
-*Features*
-
-- JWT Authentication
-- Shopping Cart
-- Orders
-- Product Management
-- Admin Dashboard
-
-*Tech*
-
-Spring Boot • React • PostgreSQL
+- 🥇 **Oracle Certified Professional: Java SE 17 Developer**
+- 📜 Agile Project Management
+- 📜 Python for Data Science, AI & Development
+- 📜 Software Engineering: Design & Project Management
+- 📜 The Unix Workbench
+- 📜 Introduction to OOP in C++
+- 📜 Interactivity with JavaScript
 
 ---
 
-## 👨‍💼 Employee Management System
-
-Enterprise Employee Management Platform
-
-*Tech*
-
-Angular • Spring Boot • MongoDB
-
----
-
-## 🌾 GPEC Web Application
-
-Human Resources Planning Platform
-
-*Tech*
-
-Angular • NestJS • JWT
-
----
-
-## 📚 E-Learning Platform
-
-Learning Management System
-
-*Tech*
-
-ASP.NET Core • SQL Server
-
----
-
-## 🎤 Conference Management System
-
-Conference Management Web Application
-
-*Tech*
-
-Django • SQLite
-
----
-
-# 🏆 Certifications
-
-🥇 Oracle Certified Professional: Java SE 17 Developer
-
-📜 Agile Project Management
-
-📜 Python for Data Science, AI & Development
-
-📜 Software Engineering: Design & Project Management
-
-📜 The Unix Workbench
-
-📜 Introduction to OOP in C++
-
-📜 Interactivity with JavaScript
-
----
-
-# 📖 Currently Learning
-
-- Spring Boot Microservices
-- Docker
-- Kubernetes
-- DevOps
-- CI/CD
-- Cloud Computing
-- Artificial Intelligence
-
----
-
-# 🎯 Goals
-
-- 🚀 Become a Full Stack Software Engineer
-- ☁️ Master Cloud Computing
-- 🐳 Master Docker & Kubernetes
-- 🧠 Build AI-powered Applications
-- 🌍 Contribute to Open Source Projects
-- 📚 Continuously Learn New Technologies
-
----
-
-# 💬 Favorite Quote
-
-> "First, solve the problem. Then, write the code."
-
----
-
-<h3 align="center">
-Thanks for visiting my GitHub profile ❤️
-</h3>
+## 📊 GitHub Stats
 
 <p align="center">
-⭐ If you like my projects, don't forget to star them!
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elghzouimd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elghzouimd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=elghzouimd&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a Full Stack Software Engineer
+- ☁️ Master Cloud Computing, Docker & Kubernetes
+- 🧠 Build AI-powered applications
+- 🌍 Contribute to open source
+
+---
+
+> *"First, solve the problem. Then, write the code."*
+
+<p align="center">
+Thanks for visiting my profile ❤️ · ⭐ Star my projects if you like them!
 </p>
