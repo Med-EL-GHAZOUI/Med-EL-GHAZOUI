@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed EL-GHAZOUI </h1>
 
 <h3 align="center">
-Computer Science & Networks Engineering Student | Full Stack Developer | Java Developer
+Full Stack Developer | Java • Spring Boot • Angular • .NET<br/>
+5th-year Computer Science & Networks Engineering Student at EMSI Rabat
 </h3>
+
+<p align="center">
+🔎 <b>Looking for a 6-month final-year (PFE) internship in Full Stack Development</b> — Rabat, Morocco | open to relocation within Morocco
+</p>
 
 <p align="center">
   <a href="https://github.com/elghzouimd">
@@ -11,25 +16,30 @@ Computer Science & Networks Engineering Student | Full Stack Developer | Java De
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Angular+%7C+React+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Angular+%7C+NestJS+%7C+.NET+Blazor;Looking+for+a+6-month+PFE+Internship;Welcome+to+my+GitHub!" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Computer Science & Networks Engineering Student at *EMSI Rabat*
+🎓 5th-year engineering student in **Computer Science & Networks** at *EMSI Rabat* (option: Digital Development & Information Systems), expected 2027.
 
-💻 Passionate about
+💻 Full stack developer passionate about web technologies and software engineering. I have completed **two internships**:
+
+- **COPAG** — GPEC web application (Angular, NestJS, JWT)
+- **Smart Data Innovation** — Blazor .NET 9 application with OCR
+
+I work with **Java / Spring Boot** (Oracle Certified Java SE 17), REST APIs, SQL and Git, using **Agile / Scrum** methods.
+
+💡 Interests
 
 - Full Stack Development
 - Software Engineering
 - Enterprise Applications
-- Artificial Intelligence
+- Artificial Intelligence & Data
 - Database Systems
 - Clean Architecture
-
-I enjoy building scalable web applications, solving real-world problems and learning new technologies every day.
 
 ---
 
@@ -50,6 +60,8 @@ I enjoy building scalable web applications, solving real-world problems and lear
 
 </p>
 
+📍 Rabat, Morocco
+
 ---
 
 # 💻 Programming Languages
@@ -58,19 +70,19 @@ I enjoy building scalable web applications, solving real-world problems and lear
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
+<img src="https://skillicons.dev/icons?i=cs"/>
+
 <img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=php"/>
 
 <img src="https://skillicons.dev/icons?i=cpp"/>
 
 <img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cs"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
 
 </p>
 
@@ -85,8 +97,6 @@ I enjoy building scalable web applications, solving real-world problems and lear
 <img src="https://skillicons.dev/icons?i=react"/>
 
 <img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=vue"/>
 
 <img src="https://skillicons.dev/icons?i=html"/>
 
@@ -110,13 +120,17 @@ I enjoy building scalable web applications, solving real-world problems and lear
 
 <img src="https://skillicons.dev/icons?i=nestjs"/>
 
-<img src="https://skillicons.dev/icons?i=laravel"/>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
 
 <img src="https://skillicons.dev/icons?i=django"/>
 
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=laravel"/>
 
 </p>
+
+Java • Spring Boot • JPA/Hibernate • Node.js • NestJS • TypeORM • C# • .NET 9 • ASP.NET Core • Blazor • Django • Flask • PHP • Laravel • REST API • JWT
 
 ---
 
@@ -130,17 +144,23 @@ I enjoy building scalable web applications, solving real-world problems and lear
 
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=redis"/>
-
 <img src="https://skillicons.dev/icons?i=sqlite"/>
 
 <img src="https://skillicons.dev/icons?i=oracle"/>
 
 </p>
 
+SQL • PL/SQL • PostgreSQL • MySQL • MariaDB • SQL Server • Oracle • MongoDB • SQLite
+
 ---
 
-# 🛠️ Tools
+# 📊 Data / Python
+
+Python • Pandas • NumPy • Prediction models • OCR
+
+---
+
+# 🛠️ Tools & Methods
 
 <p>
 
@@ -154,136 +174,128 @@ I enjoy building scalable web applications, solving real-world problems and lear
 
 <img src="https://skillicons.dev/icons?i=postman"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
 <img src="https://skillicons.dev/icons?i=idea"/>
 
 <img src="https://skillicons.dev/icons?i=webstorm"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 <img src="https://skillicons.dev/icons?i=maven"/>
 
 </p>
 
+Git • Maven • Docker • Linux • Postman • IntelliJ • WebStorm • Taiga • UML • Agile / Scrum
+
 ---
 
 # 💼 Professional Experience
 
-## 🌾 Full Stack Developer Intern — COPAG
+## 🧾 .NET Developer Intern — Blazor & OCR
 
-📍 Taroudant, Morocco
+🏢 **Smart Data Innovation — DevlopStack** | 📍 Mohammadia, Morocco | 🗓️ 07/2026 – 08/2026
 
-Developed a *Human Resources Planning (GPEC)* web application.
+- Developed a **Blazor Server (C#, .NET 9)** web application for extracting data from Moroccan national ID cards (CNI)
+- Integrated an **OCR system** to automatically extract the data from the cards
+- Designed and managed the **MariaDB** database for data persistence
 
-### Responsibilities
+**Stack:** C# • .NET 9 • Blazor Server • MariaDB • OCR • Git
 
-- UML Analysis & Design
-- REST API Development
-- JWT Authentication
-- Full Stack Development
-- Database Design
-- Git Collaboration
-- Agile Methodology
+---
 
-### Technologies
+## 🌾 Full Stack Developer Intern — GPEC Application
 
-Angular • NestJS • TypeORM • JWT • REST API • Git
+🏢 **COPAG (Agricultural Cooperative)** | 📍 Taroudant, Morocco | 🗓️ 07/2025 – 08/2025
+
+- Developed a **Human Resources Planning (GPEC)** web application
+- Requirements analysis and architecture design with **UML**
+- Built a Front-end (**Angular**) / Back-end (**NestJS**) architecture
+- Implemented secure authentication and authorization with **JWT**
+- Developed **REST APIs** and handled data persistence with **TypeORM**
+
+**Stack:** Angular • NestJS • TypeORM • REST API • JWT • UML • Git
 
 ---
 
 # 🚀 Featured Projects
 
-## 📈 ForecastIQ
+## 📈 ForecastIQ — Sales Forecasting Application (06/2026)
 
-AI-powered Sales Forecasting Platform
+AI-powered web platform integrating sales prediction models.
 
-*Features*
+- Secure REST APIs and PostgreSQL database management
+- Data processing and analysis with Pandas and NumPy
+- Secure authentication with JWT and password hashing (bcrypt)
 
-- Machine Learning
-- Sales Forecasting
-- Trend Analysis
-- Dashboard
-- Secure Authentication
-- Reports
+**Tech:** Next.js • Flask • PostgreSQL • Pandas • NumPy • JWT • bcrypt • Git
 
-*Tech*
+---
 
-Next.js • Flask • PostgreSQL • Pandas • NumPy
+## 🎤 Conference Management System (06/2025)
+
+Web application to manage conferences, speakers and registrations.
+
+- User interface and database design and development
+
+**Tech:** Django • SQLite • HTML • CSS • JavaScript • Git
 
 ---
 
 ## 🛒 ArticleSimy
 
-Full Stack E-commerce Platform
+Full Stack E-commerce Platform — JWT authentication, shopping cart, orders, product management and admin dashboard.
 
-*Features*
-
-- JWT Authentication
-- Shopping Cart
-- Orders
-- Product Management
-- Admin Dashboard
-
-*Tech*
-
-Spring Boot • React • PostgreSQL
+**Tech:** Spring Boot • React • PostgreSQL
 
 ---
 
 ## 👨‍💼 Employee Management System
 
-Enterprise Employee Management Platform
+Enterprise Employee Management Platform.
 
-*Tech*
-
-Angular • Spring Boot • MongoDB
-
----
-
-## 🌾 GPEC Web Application
-
-Human Resources Planning Platform
-
-*Tech*
-
-Angular • NestJS • JWT
+**Tech:** Angular • Spring Boot • MongoDB
 
 ---
 
 ## 📚 E-Learning Platform
 
-Learning Management System
+Learning Management System.
 
-*Tech*
-
-ASP.NET Core • SQL Server
-
----
-
-## 🎤 Conference Management System
-
-Conference Management Web Application
-
-*Tech*
-
-Django • SQLite
+**Tech:** ASP.NET Core • SQL Server
 
 ---
 
 # 🏆 Certifications
 
-🥇 Oracle Certified Professional: Java SE 17 Developer
+🥇 **Oracle Certified Professional: Java SE 17 Developer** — Oracle (06/2026)
 
-📜 Agile Project Management
+📜 **Agile Project Management** — Google (04/2026)
 
-📜 Python for Data Science, AI & Development
+📜 **Python for Data Science, AI & Development** — IBM (04/2025)
 
-📜 Software Engineering: Design & Project Management
+<details>
+<summary>Other courses</summary>
 
-📜 The Unix Workbench
+- Software Engineering: Design & Project Management
+- The Unix Workbench
+- Introduction to OOP in C++
+- Interactivity with JavaScript
 
-📜 Introduction to OOP in C++
+</details>
 
-📜 Interactivity with JavaScript
+---
+
+# 🎓 Education
+
+- **Engineering Degree in Computer Science & Networks** — EMSI Rabat, 2024 – 2027 (expected) | Option: Digital Development & Information Systems (5th year)
+- **Integrated Preparatory Classes (Engineering Sciences)** — EMSI Rabat, 2022 – 2024
+
+---
+
+# 🗣️ Languages
+
+- 🇫🇷 French — Fluent
+- 🇬🇧 English — Technical (intermediate)
+- 🇲🇦 Arabic — Native
 
 ---
 
@@ -301,12 +313,12 @@ Django • SQLite
 
 # 🎯 Goals
 
+- 🎓 Land a 6-month PFE internship in Full Stack Development
 - 🚀 Become a Full Stack Software Engineer
 - ☁️ Master Cloud Computing
 - 🐳 Master Docker & Kubernetes
 - 🧠 Build AI-powered Applications
 - 🌍 Contribute to Open Source Projects
-- 📚 Continuously Learn New Technologies
 
 ---
 
