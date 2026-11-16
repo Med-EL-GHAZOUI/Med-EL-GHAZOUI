@@ -10,7 +10,7 @@ Full Stack Developer | Java • Spring Boot • Angular • .NET<br/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/elghzouimd">
+  <a href="[https://github.com/elghzouimd](https://github.com/Med-EL-GHAZOUI)">
     <img src="https://komarev.com/ghpvc/?username=elghzouimd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
